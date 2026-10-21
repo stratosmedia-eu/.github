@@ -14,6 +14,11 @@ Jellyfin and Plex that keeps what people like about them and fixes what annoys t
 Your library stays on your own hardware. **No ads, no tracking, no third-party analytics.** The server
 contacts only the outside services its admin switches on.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stratosmedia-eu/.github/main/profile/mockup-tv-film-detail.webp" alt="Mockup of a film page in the Stratos TV player, Cinema skin" width="760">
+  <br><sub><i>Design mockup of the default "Cinema" skin on a TV, not a screenshot of the finished app. Titles, people and artwork are made up.</i></sub>
+</p>
+
 ## What we are building
 
 | Part | What it is |
