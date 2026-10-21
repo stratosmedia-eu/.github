@@ -26,7 +26,7 @@ contacts only the outside services its admin switches on.
 | **Stratos Media Server** | Headless server: scanning, metadata, transcoding, streaming, accounts and profiles, a documented REST API. .NET, SQLite or PostgreSQL. Also speaks enough of the Jellyfin API that existing Jellyfin apps can use it. |
 | **Stratos Media Player** | The player for Android TV and Google TV, Fire TV, phones, tablets and desktop. |
 | **Stratos TV for Samsung and LG** | A lightweight player for Samsung Tizen and LG webOS TVs. |
-| **Stratos Server Manager** | The admin app, on the desktop and in the browser, for setup, libraries and accounts. |
+| **Stratos Server Manager** | The admin app for setup, libraries and accounts, which also plays your media like the player. On desktop, Android, Android TV and in the browser. |
 | **Stratos Media Relay Server** | An optional, federated relay that helps apps reach a home server from outside, without carrying the media itself. Anyone can run one. |
 
 ## Repositories
