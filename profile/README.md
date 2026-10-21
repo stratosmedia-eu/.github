@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="stratos-color-dark.svg">
-    <img src="stratos-color-light.svg" alt="Stratos" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stratosmedia-eu/.github/main/profile/stratos-color-dark.svg">
+    <img src="https://raw.githubusercontent.com/stratosmedia-eu/.github/main/profile/stratos-color-light.svg" alt="Stratos" width="420">
   </picture>
 </p>
 
