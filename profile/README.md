@@ -1,4 +1,11 @@
-# Stratos. Your media world.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stratos-color-dark.svg">
+    <img src="stratos-color-light.svg" alt="Stratos" width="420">
+  </picture>
+</p>
+
+<p align="center"><b>Your media world.</b></p>
 
 Stratos is a **self-hosted media server and a family of players** for six kinds of media in one place:
 films and TV, music, audiobooks, podcasts, ebooks and comics. It is built as a modern alternative to
