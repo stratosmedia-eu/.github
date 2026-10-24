@@ -39,8 +39,10 @@ contacts only the outside services its admin switches on.
 ## Where we are
 
 1. **Foundations: done.** Server identity, accounts, the database layer and the plugin host.
-2. **Home use: in progress.** Scanning, metadata, playback and progress, first with existing Jellyfin
-   apps, then with our own players on Android TV and Samsung TVs.
+2. **Home use: in progress, first alpha close.** Scanning, metadata, playback and progress work with
+   existing Jellyfin apps; our own player runs on Android TV, where you sign in by approving a code on
+   your phone, and the Samsung TV player shows your libraries. The first tagged alpha (0.1) follows
+   once it has been used at home.
 3. **Household:** profiles, resume and Continue Watching everywhere, NAS installs, a desktop player, and
    an API preview for client developers.
 4. **Pre-release, repository opens:** hardware transcoding, music, network-share libraries, LG webOS
